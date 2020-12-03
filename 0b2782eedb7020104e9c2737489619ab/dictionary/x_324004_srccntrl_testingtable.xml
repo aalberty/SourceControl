@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TestingTable" max_length="40" name="x_324004_srccntrl_testingtable" type="collection">
+        <element label="New column" max_length="40" name="new_column" type="string"/>
+    </element>
+</database>
